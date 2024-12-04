@@ -7,6 +7,7 @@ public class Ejercicio1 {
 
         //Pedir el radio de un círculo y calcular su área. A=PI*r^2.
 
+        //Creamos un scanner para introducir datos desde nuestra terminal.
         Scanner sc = new Scanner(System.in);
 
         double radio = 0;
